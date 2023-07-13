@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705136805729",
+    "project_id": "myspacealphaoneapartents",
+    "storage_bucket": "myspacealphaoneapartents.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705136805729:android:7723a7d1a5f3de0e23a720",
+        "android_client_info": {
+          "package_name": "com.example.myspacealphaoneapartents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705136805729-dtnf2avpk9apr8v67nl5emk1tv6ffa82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBolI0-sMiigBRa_1Z8mJmL8S--RHAC5F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705136805729-dtnf2avpk9apr8v67nl5emk1tv6ffa82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">AlphaOne</string>
+
+    <string name="title_activity_page_home">PageHomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="socials">
+        Instagram: myspace.alphaone
+        Whatsapp: 0700181477
+        TikTok: myspace.alphaone
+    </string>
+
+    <string name="intro_info">
+        Live in luxury with these stunning
+        apartments. Enjoy top-of-the-line
+        amenities,you will love it.Our community
+        conveniently has an online chat app and an
+        online market.
+    </string>
+
+    <string name="no_account">
+        I do not have an account? <font color="#FF2626"><b>Register</b></font>
+    </string>
+
+    <string name="yes_account">
+        Already have an account? <font color="#FF2626"><b>Login</b></font>
+    </string>
+</resources>
